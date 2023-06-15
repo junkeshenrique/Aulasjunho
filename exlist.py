@@ -1,0 +1,1 @@
+pessoas = ['Joao', 'Maria', 'Pedro']
